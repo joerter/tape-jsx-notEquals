@@ -1,6 +1,6 @@
 {
   "name": "tape-jsx-notequals",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tape extension to assert two jsx strings are not equal",
   "main": "dist/index.js",
   "scripts": {

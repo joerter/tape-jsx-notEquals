@@ -1,8 +1,8 @@
 # tape-jsx-notEquals
 Extension assertion for tape and jsx
 
-[![npm](https://img.shields.io/npm/v/tape-jsx-equals.svg)](https://www.npmjs.com/package/tape-jsx-notequals)
-[![npm](https://img.shields.io/npm/l/tape-jsx-equals.svg)](https://www.npmjs.com/package/tape-jsx-notequals)
+[![npm](https://img.shields.io/npm/v/tape-jsx-notequals.svg)](https://www.npmjs.com/package/tape-jsx-notequals)
+[![npm](https://img.shields.io/npm/l/tape-jsx-notequals.svg)](https://www.npmjs.com/package/tape-jsx-notequals)
 
 [Tape](https://github.com/substack/tape) [extension](https://github.com/atabel/extend-tape) to assert two jsx strings are not equal.
 
